@@ -23,9 +23,9 @@ repository               : "samihere2018/samihere2018.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sylvia Amihere"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Dallas, TX"
   employer         : "Southern Methodist University"
   uri              : # URL
