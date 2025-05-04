@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Sylvia Amihere"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : " "
   location         : "Dallas, TX"
   employer         : "Southern Methodist University"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/samihere2018"
+  github           : "samihere2018"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
