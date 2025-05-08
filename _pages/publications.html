@@ -33,10 +33,10 @@ author_profile: true
 {% endif %} -->
 
 {% if site.publications %}
-  <ul>
+  <ul class="publications">
     {% for post in site.publications reversed %}
       <li>
-        <strong>{{ post.title }}</strong><br>
+        <span>{{ post.title }}</span><br> <!-- Optional bold removal -->
         {% if post.authors %}
           <em>{{ post.authors }}</em><br>
         {% endif %}
