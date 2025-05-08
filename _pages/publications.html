@@ -11,8 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined
-{% if site.publication_category %}
+<!-- New style rendering if publication categories are defined -->
+<!-- {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -30,20 +30,28 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
+{% endif %} -->
+
+{% if site.publications %}
+  <ul>
+    {% for post in site.publications reversed %}
+      <li>
+        <strong>{{ post.title }}</strong><br>
+        {% if post.authors %}
+          <em>{{ post.authors }}</em><br>
+        {% endif %}
+        {% if post.paperurl %}
+          <a href="{{ post.paperurl }}" target="_blank">[PDF]</a>
+        {% endif %}
+        {% if post.doi %}
+          <a href="https://doi.org/{{ post.doi }}" target="_blank">[DOI]</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No publications available.</p>
 {% endif %}
 
 
- -->
- - **A Simple Yet Effective Paper** <br> 
- *Jane Doe, John Smith* <br>
- [PDF](https://example.com/paper.pdf) | [DOI](https://doi.org/10.1000/example)
- 
- <br>
-- **Another Paper Title**  <br>
- *Jane Doe, Alex Chen*  <br>
- [PDF](https://example.com/another.pdf)
 
- <br>
-- **Interesting Findings on Clean Design**  <br>
- *Jane Doe*  <br>
- [PDF](https://example.com/design.pdf) | [DOI](https://doi.org/10.1000/design2024)
