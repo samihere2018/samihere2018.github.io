@@ -36,15 +36,20 @@ author_profile: true
   <ul class="publications">
     {% for post in site.publications reversed %}
       <li>
-        <span>{{ post.title }}</span><br> 
+        <span>{{ post.title }}</span><br> <!-- Publication title -->
         {% if post.authors %}
-          <em>{{ post.authors }}</em><br>
+          <em>{{ post.authors }}</em><br> <!-- Authors (if provided) -->
         {% endif %}
         {% if post.paperurl %}
-          <a href="{{ post.paperurl }}" target="_blank">[PDF]</a>
+          <a href="{{ post.paperurl }}" target="_blank">[PDF]</a> <!-- Link to the paper -->
         {% endif %}
         {% if post.doi %}
-          <a href="https://doi.org/{{ post.doi }}" target="_blank">[DOI]</a>
+          <a href="https://doi.org/{{ post.doi }}" target="_blank">[DOI]</a> <!-- DOI Link -->
+        {% endif %}
+        
+        <!-- Display the citation -->
+        {% if post.citation %}
+          <p><strong>Citation:</strong> {{ post.citation }}</p>
         {% endif %}
       </li>
     {% endfor %}
@@ -52,6 +57,3 @@ author_profile: true
 {% else %}
   <p>No publications available.</p>
 {% endif %}
-
-
-
