@@ -80,7 +80,7 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  # manuscripts:
     # title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
