@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "A New Boundary Condition for the Nonlinear Poisson-Boltzmann Equation in Electrostatic Analysis of Proteins"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
