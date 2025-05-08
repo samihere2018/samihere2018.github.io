@@ -11,4 +11,4 @@ paperurl: 'https://bpb-us-e2.wpmucdn.com/sites.ua.edu/dist/e/242/files/2025/01/c
 citation: 'Y. Ren, S. Amihere, W. Geng, and S. Zhao, Comparison of three matched interface and boundary (MIB) schemes for solving the nonlinear Poisson-Boltzmann equation, Communications in Information and Systems, 24, 231-251, (2024).'
 ---
 
-Published in the Jornal of Communications in Information and Systems
+Published in the Journal of Communications in Information and Systems

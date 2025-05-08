@@ -11,4 +11,4 @@ paperurl: 'https://bpb-us-e2.wpmucdn.com/sites.ua.edu/dist/e/242/files/2025/02/J
 citation: 'S. Amihere, Y. Ren, W. Geng, and S. Zhao, A new boundary condition for the nonlinear Poisson-Boltzmann equation in electrostatic analysis of proteins, Journal of Computational Physics, 528, 113844, (2025).'
 ---
 
-Published in the Jornal of Computational Physics
+Published in the Journal of Computational Physics
