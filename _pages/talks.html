@@ -17,8 +17,8 @@ author_profile: true
     <li>
       <strong>{{ post.title }}</strong>
       {% if post.venue %}, {{ post.venue }}{% endif %}
-      <!-- {% if post.location %}, {{ post.location }}{% endif %} -->
-      <!-- {% if post.date %} — <em>{{ post.date | date: "%B %Y" }}</em>{% endif %} -->
+      {% if post.location %}, {{ post.location }}{% endif %}
+      {% if post.date %} — <em>{{ post.date | date: "%B %Y" }}</em>{% endif %}
     </li>
     {% endif %}
   {% endfor %}
@@ -27,19 +27,14 @@ author_profile: true
 <h2>Posters</h2>
 <ul>
   {% assign sorted_posters = site.talks | sort: "date" | reverse %}
-  {% assign poster_count = 0 %}
   {% for post in sorted_posters %}
     {% if post.type == "Poster" %}
-      {% assign poster_count = poster_count | plus: 1 %}
       <li>
         <strong>{{ post.title }}</strong>
         {% if post.venue %}, {{ post.venue }}{% endif %}
-        <!-- {% if post.location %}, {{ post.location }}{% endif %} -->
-        <!-- {% if post.date %} — <em>{{ post.date | date: "%B %Y" }}</em>{% endif %} -->
+        {% if post.location %}, {{ post.location }}{% endif %}
+        {% if post.date %} — <em>{{ post.date | date: "%B %Y" }}</em>{% endif %}
       </li>
     {% endif %}
   {% endfor %}
-  {% if poster_count == 0 %}
-    <li>No posters available</li>
-  {% endif %}
 </ul>
