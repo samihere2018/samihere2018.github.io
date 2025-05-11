@@ -22,7 +22,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-<!-- {% if site.talkmap_link == true %}
+{% if site.talkmap_link == true %}
 <p style="text-decoration:underline;">
   <a href="/talkmap.html">See a map of all the places I've given a talk!</a>
 </p>
@@ -35,21 +35,7 @@ author_profile: true
     {% if post.venue %} — {{ post.venue }}{% endif %}
     {% if post.location %}, {{ post.location }}{% endif %}
     {% if post.date %} <em>({{ post.date | date: "%B %Y" }})</em>{% endif %}
-    {% if post.url %} [<a href="{{ post.url }}">link</a>]{% endif %}
+    <!-- {% if post.url %} [<a href="{{ post.url }}">link</a>]{% endif %} -->
   </li>
 {% endfor %}
-</ul> -->
-
-<ul>
-  {% for post in site.talks reversed %}
-    <li>
-      <strong>{{ post.title }}</strong>{% if post.venue %}, {{ post.venue }}{% endif %}
-      {% if post.date %} — <em>{{ post.date | date: "%B %Y" }}</em>{% endif %}
-      <!-- Remove the link part since you don't want it clickable anymore -->
-      {% if post.url %}
-        <!-- Remove or comment out the link entirely if not needed -->
-        <!-- [<a href="{{ post.url }}">link</a>] -->
-      {% endif %}
-    </li>
-  {% endfor %}
-  </ul>
+</ul>
