@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Presentations"
 permalink: /talks/
@@ -13,4 +13,43 @@ author_profile: true
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
+{% endfor %} -->
+
+---
+layout: archive
+title: "Presentations"
+permalink: /talks/
+author_profile: true
+---
+
+<!-- {% if site.talkmap_link == true %}
+<p style="text-decoration:underline;">
+  <a href="/talkmap.html">See a map of all the places I've given a talk!</a>
+</p>
+{% endif %}
+
+<ul>
+{% for post in site.talks reversed %}
+  <li>
+    <strong>{{ post.title }}</strong>
+    {% if post.venue %} — {{ post.venue }}{% endif %}
+    {% if post.location %}, {{ post.location }}{% endif %}
+    {% if post.date %} <em>({{ post.date | date: "%B %Y" }})</em>{% endif %}
+    {% if post.url %} [<a href="{{ post.url }}">link</a>]{% endif %}
+  </li>
 {% endfor %}
+</ul> -->
+
+<ul>
+  {% for post in site.talks reversed %}
+    <li>
+      <strong>{{ post.title }}</strong>{% if post.venue %}, {{ post.venue }}{% endif %}
+      {% if post.date %} — <em>{{ post.date | date: "%B %Y" }}</em>{% endif %}
+      <!-- Remove the link part since you don't want it clickable anymore -->
+      {% if post.url %}
+        <!-- Remove or comment out the link entirely if not needed -->
+        <!-- [<a href="{{ post.url }}">link</a>] -->
+      {% endif %}
+    </li>
+  {% endfor %}
+  </ul>
