@@ -35,7 +35,7 @@ author_profile: true
     {% if post.venue %} — {{ post.venue }}{% endif %}
     {% if post.location %}, {{ post.location }}{% endif %}
     {% if post.date %} <em>({{ post.date | date: "%B %Y" }})</em>{% endif %}
-    <!-- {% if post.url %} [<a href="{{ post.url }}">link</a>]{% endif %} -->
+    {% if post.url %} [<a href="{{ post.url }}">link</a>]{% endif %}
   </li>
 {% endfor %}
 </ul>
