@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
@@ -9,12 +9,37 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 {% endif %}
 
+<h2>Talks</h2>
 <ul>
-{% for post in site.talks reversed %}
-  <li>
-    <strong>{{ post.title }}</strong>{% if post.venue %}, {{ post.venue }}{% endif %}
-    <!-- {% if post.location %}, {{ post.location }}{% endif %} -->
-    <!-- {% if post.date %} — <em>{{ post.date | date: "%B %Y" }}</em>{% endif %} -->
-  </li>
-{% endfor %}
+  {% assign sorted_talks = site.talks | sort: "date" | reverse %}
+  {% for post in sorted_talks %}
+    {% if post.type == "Talk" %}
+    <li>
+      <strong>{{ post.title }}</strong>
+      {% if post.venue %}, {{ post.venue }}{% endif %}
+      <!-- {% if post.location %}, {{ post.location }}{% endif %} -->
+      <!-- {% if post.date %} — <em>{{ post.date | date: "%B %Y" }}</em>{% endif %} -->
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Posters</h2>
+<ul>
+  {% assign sorted_posters = site.talks | sort: "date" | reverse %}
+  {% assign poster_count = 0 %}
+  {% for post in sorted_posters %}
+    {% if post.type == "Poster" %}
+      {% assign poster_count = poster_count | plus: 1 %}
+      <li>
+        <strong>{{ post.title }}</strong>
+        {% if post.venue %}, {{ post.venue }}{% endif %}
+        <!-- {% if post.location %}, {{ post.location }}{% endif %} -->
+        <!-- {% if post.date %} — <em>{{ post.date | date: "%B %Y" }}</em>{% endif %} -->
+      </li>
+    {% endif %}
+  {% endfor %}
+  {% if poster_count == 0 %}
+    <li>No posters available</li>
+  {% endif %}
 </ul>
