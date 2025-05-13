@@ -1,5 +1,5 @@
 ---
-title: "Finite Mathematics with applications (Math 110), Fall 2020"
+title: "Precalculus and Trigonometry (Math 115), Fall 2019"
 collection: teaching
 type: "The Univerity of Alabama"
 # permalink: /teaching/2014-spring-teaching-1

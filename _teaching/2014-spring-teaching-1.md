@@ -1,5 +1,14 @@
 ---
-title: "Precalculus and Trigonometry (Math 115), Fall 2019"
+title: |
+  Tutored undergraduate courses including:
+  - Introductory Algebra
+  - Intermediate Algebra
+  - Precalculus Algebra
+  - Precalculus Trigonometry
+  - Precalc Algebra & Trig
+  - Business Calculus
+  - Calculus I
+  - Calculus II
 collection: teaching
 type: "The Univerity of Alabama"
 # permalink: /teaching/2014-spring-teaching-1
