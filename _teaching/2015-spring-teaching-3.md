@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 3"
+title: "Finite Mathematics with applications (Math 110)"
 collection: teaching
 type: "The Univerity of Alabama"
 # permalink: /teaching/2014-spring-teaching-1

@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 6"
+title: "Linear Algebra (Math 237)"
 collection: teaching
 type: "The Univerity of Alabama"
 # permalink: /teaching/2014-spring-teaching-1

@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Business Calculus (Math 121)"
 collection: teaching
 type: "The Univerity of Alabama"
 # permalink: /teaching/2014-spring-teaching-1
