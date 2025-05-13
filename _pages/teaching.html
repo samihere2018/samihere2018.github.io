@@ -7,18 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Southern Methodist University</h2>
+<!-- <h2>Southern Methodist University</h2>
 <ul>
   {% assign sorted_teaching = site.teaching | sort: "date" | reverse %}
   {% for post in sorted_teaching %}
     {% if post.type == "Southern Methodist University" %}
     <li>
       <strong>{{ post.title }}</strong>
-      <!-- {% if post.venue %}, {{ post.venue }}{% endif %} -->
     </li>
     {% endif %}
   {% endfor %}
-</ul>
+</ul> -->
 
 <h2>The Univerity of Alabama</h2>
 <ul>
@@ -27,7 +26,6 @@ author_profile: true
     {% if post.type == "The Univerity of Alabama" %}
       <li>
         <strong>{{ post.title }}</strong>
-        <!-- {% if post.venue %}, {{ post.venue }}{% endif %} -->
       </li>
     {% endif %}
   {% endfor %}
