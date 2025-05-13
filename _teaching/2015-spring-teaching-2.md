@@ -1,5 +1,5 @@
 ---
-title: "Business Calculus (Math 121)"
+title: "Business Calculus (Math 121), Spring 2020"
 collection: teaching
 type: "The Univerity of Alabama"
 # permalink: /teaching/2014-spring-teaching-1
