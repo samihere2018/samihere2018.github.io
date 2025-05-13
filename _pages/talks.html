@@ -15,7 +15,7 @@ author_profile: true
   {% for post in sorted_talks %}
     {% if post.type == "Talk" %}
     <li>
-      <strong>{{ post.title }}</strong>
+      {{ post.title }}
       {% if post.venue %}, {{ post.venue }}{% endif %}
       <!-- {% if post.location %}, {{ post.location }}{% endif %} -->
       <!-- {% if post.date %} — <em>{{ post.date | date: "%B %Y" }}</em>{% endif %} -->
@@ -30,7 +30,7 @@ author_profile: true
   {% for post in sorted_posters %}
     {% if post.type == "Poster" %}
       <li>
-        <strong>{{ post.title }}</strong>
+        {{ post.title }}
         {% if post.venue %}, {{ post.venue }}{% endif %}
         <!-- {% if post.location %}, {{ post.location }}{% endif %} -->
         <!-- {% if post.date %} — <em>{{ post.date | date: "%B %Y" }}</em>{% endif %} -->
