@@ -30,3 +30,15 @@ author_profile: true
     {% endif %}
   {% endfor %}
 </ul>
+
+<h2><a href="https://www.ug.edu.gh/" target="_blank" rel="noopener">University of Ghana</a> (Teaching Assistant)</h2>
+<ul>
+  {% assign sorted_teaching = site.teaching | sort: "date" | reverse %}
+  {% for post in sorted_teaching %}
+    {% if post.type == "The Univerity of Alabama" %}
+      <li>
+        {{ post.title }}
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
