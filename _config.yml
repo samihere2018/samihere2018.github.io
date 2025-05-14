@@ -214,7 +214,10 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  UniveristyOAlabama:
+    output: true
+    permalink: /:collection/:path/
+  UniveristyOGhana:
     output: true
     permalink: /:collection/:path/
   publications:

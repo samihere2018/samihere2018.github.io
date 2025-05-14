@@ -1,6 +1,6 @@
 ---
 title: "Calculus I (Math 125), Fall 2022"
-collection: teaching
+collection: UniveristyOAlabama
 type: "The Univerity of Alabama"
 # permalink: /teaching/2014-spring-teaching-1
 # venue: "University 1, Department"

@@ -1,6 +1,6 @@
 ---
 title: "Linear Algebra (Math 237), Fall 2023"
-collection: teaching
+collection: UniveristyOAlabama
 type: "The Univerity of Alabama"
 # permalink: /teaching/2014-spring-teaching-1
 # venue: "University 1, Department"
