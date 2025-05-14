@@ -4,7 +4,7 @@ collection: teaching
 type: "The University of Alabama"
 ---
 
-Tutored [undergraduate courses](https://mtlc.ua.edu/) including:
+Tutored [undergraduate courses]([https://example.com](https://mtlc.ua.edu/)) including:
 
 - Introductory Algebra  
 - Intermediate Algebra  
