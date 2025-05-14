@@ -1,6 +1,6 @@
 ---
 title: "Precalculus and Trigonometry (Math 115), Fall 2019"
-collection: UniveristyOAlabama
+collection: teaching
 type: "The Univerity of Alabama"
 # permalink: /teaching/2014-spring-teaching-1
 # venue: "University 1, Department"

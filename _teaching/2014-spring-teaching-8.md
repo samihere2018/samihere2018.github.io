@@ -1,6 +1,6 @@
 ---
 title: "Tutored undergraduate courses including Computational Mathematics and Calculus III."
-collection: UniveristyOGhana
+collection: teaching
 type: "Univerity of Ghana"
 # permalink: /teaching/2014-spring-teaching-1
 # venue: "University 1, Department"
