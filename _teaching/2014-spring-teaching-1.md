@@ -1,5 +1,5 @@
 ---
-title: "Tutored undergraduate courses including Introductory, Intermediate and Precalculus Algebra, Finite Mathematics, Trigonometry, Business Calculus, Calculus I and Calculus II"
+title: "Tutored undergraduate courses including Algebra (Introductory, Intermediate, and Precalculus), Finite Mathematics, Trigonometry, Business Calculus, and Calculus I & II."
 collection: teaching
 type: "The Univerity of Alabama"
 # permalink: /teaching/2014-spring-teaching-1
