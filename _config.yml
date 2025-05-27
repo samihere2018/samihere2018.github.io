@@ -220,7 +220,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  service:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -272,7 +272,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: service
     values:
       layout: single
       author_profile: true
