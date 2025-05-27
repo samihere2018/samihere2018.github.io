@@ -7,12 +7,16 @@ author_profile: true
 
 Service
 ======
+* **Reviwer:** Applied and Computational Mathematics, [Science Publishing Group](https://www.sciencepublishinggroup.com/journal/147/reviewers), 03/2025 - present.
 * **Judge:** [SIAM M3 Challenge](https://m3challenge.siam.org), 03/2025.
-* **Delegate:** [Graduate Students Association](https://gsa.ua.edu/delegates/), House of Delegates, 08/2024-05/2025.
-* **Grader:** [MATHCOUNTS](https://www.mathcounts.org), 02/2022 - 02/2025.
-* **Judge:** [SIMIODE Challenge Using Differential Equations Modelling (SCUDEM) IX](https://qubeshub.org/community/groups/simiode/), 10/2024.
-* **Judge:** [Ohio Science Day](https://www.ohiosci.org/science-days/), 04/2024.
+* **Judge:** [Dallas Regional Science and Engineering Fair Academy](https://dallassciencefair.org/), 02/2025.
+* **Judge:** [Ohio Science Day](https://www.ohiosci.org/science-days/), 04/2024 - 03/2025.
+* **Secretary:** Association of Women in Mathematics, [UA Student Chapter](https://math.ua.edu/awm/), 08/2022 - 08/2024.
+* **Grader:** [MATHCOUNTS](https://www.mathcounts.org), 02/2022 - 02/2024.
 * **Judge:** [Undergraduate Research and Creative Activity Conference (URCA)](https://research.ua.edu/our/urca/), 03/2024.
+* **Judge:** [AMS - PME Student Poster Session](https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_posters), 03/2024.
+* **Teaching Fellow:** [UA GTA Workshop Team](https://graduate.ua.edu/students/gradacts/new-gta-workshop/), 08/2022 - 08/2023.
+
   
   
 <!-- 
@@ -32,15 +36,8 @@ Service
   
  -->
   
-Awards and Honors
+Mentorship
 ======
-* Student Travel Award (2025) - Auburn University
-	* Received for Southeast ACM Graduate Student Workshop.
-* Student Travel Award (2025) - The University of Tennesse
-	* Received for SIAM SEAS 2025.
-* Graduate Student Travel Award (2025) - The University of Alabama
-	* Received for SIAM SEAS 2025 and Southeast ACM Graduate Workshop
-* Graduate Student Travel Award (2023) - The University of Alabama
-	* Received for JMM 2024.
-* AIMS Masters in Mathematical Sciences Scholarship (2019-2020)
-	* Full scholarship awarded to attend the masters program at AIMS Ghana.
+* The University of Alabama, Department of Mathematics (2022 - 2023)
+	* Guided and mentored two master’s students through the completion of their theses
+  * Provided guidance on converting a FORTRAN package to a MATLAB package  
