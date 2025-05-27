@@ -11,9 +11,9 @@ I am a postdoctoral researcher at Southern Methodist University, working under t
 
 My research interests include Numerical Analysis, Scientific Computing and Mathematical Biology.
 
-* **Numerical Methods for PDEs:** Time Integration methods, Temporally Adaptive Multirate Infinitesimal (MRI) methods, Matched Interface and Boundary (MIB) method, Ray-Casting MIB scheme, development of Boundary Conditions
-* **Scientific Computing:** SUNDIALS/ARKODE development, Biomolecular simulations, Electrostatic Analysis
-* **Mathematical Biology:** Implicit Solvation models, Mathematical Methods for Molecular Biology, Biomolecular Solvation Energy
+* **Numerical Methods for PDEs:** Time integration methods, temporally adaptive Multirate Infinitesimal (MRI) methods, Matched Interface and Boundary (MIB) method, Ray-Casting MIB scheme, development of boundary conditions
+* **Scientific Computing:** SUNDIALS/ARKODE development, biomolecular simulations, electrostatic analysis
+* **Mathematical Biology:** Implicit solvation models, mathematical methods for molecular biology, biomolecular solvation energy
 
 Education
 ======
