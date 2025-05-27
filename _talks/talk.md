@@ -14,7 +14,7 @@ Talks
 * [AMS 2024 Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2313_program.html), Florida State University, Tallahassee, FL - March 2024.
 * [Joint Mathematics Meetings (JMM) 2024](https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html), Moscone Center, San Francisco, CA - January 2024.
 * [The 6th SIAM Texas-Louisiana Sectional Meeting 2023](https://userweb.ucs.louisiana.edu/~C00424602/SIAMTXLA2023/), University of Louisiana at Lafayette, Lafayette, LA - November 2023.
-* [Graduate Students’ Mathematical Fair 2023](https://sites.google.com/view/ghananumericals/workshops-conferences/graduate-students-fair), [Ghana Numerical Analysis] (https://sites.google.com/view/ghananumericals/home) - September 2023.
+* [Graduate Students’ Mathematical Fair 2023](https://sites.google.com/view/ghananumericals/workshops-conferences/graduate-students-fair), [Ghana Numerical Analysis](https://sites.google.com/view/ghananumericals/home) - September 2023.
 * [34th Joint Applied Mathematics Meeting](https://www.uah.edu/images/colleges/science/math/applied-mathematics-meeting-schedule.pdf), [University of Alabama in Huntsville](https://www.uah.edu/science/departments/math), Huntsville, AL - November 2022.
 * [The Second International Conference on Computational Methods and Applications in Engineering (ICCMAE)](https://www.iccmae.math.msstate.edu/), Mississippi State University, Starkville, MS - May 2022.
 * [Mathematical Molecular Bioscience and Biophysics (MMBB)](https://weilab.math.msu.edu/nitmb/), Michigan State University, East Lansing, MI - April 2022 (Virtual).
