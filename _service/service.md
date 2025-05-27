@@ -4,6 +4,21 @@ title: " "
 permalink: /service/
 author_profile: true
 ---
+  
+Conferences/Mini-Symposium Organised
+======
+* [2025 SIAM Conference on Computational Science and Engineering (CSE25)](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=81137), Fort Worth Convention Center, Fort Worth, TX - March 2025.
+* [Graduate Students’ Mathematical Fair 2023](https://sites.google.com/view/ghananumericals/workshops-conferences/graduate-students-fair/graduate-students-fair-2023), [Ghana Numerical Analysis](https://sites.google.com/view/ghananumericals/home) - September 2023.
+
+  
+  
+Mentorship
+======
+* The University of Alabama, Department of Mathematics (2022 - 2023)
+	* Guided and mentored two master’s students through the completion of their theses
+  * Provided guidance on converting a FORTRAN package to a MATLAB package  
+
+
 
 Service
 ======
@@ -16,28 +31,6 @@ Service
 * **Judge:** [Undergraduate Research and Creative Activity Conference (URCA)](https://research.ua.edu/our/urca/), 03/2024.
 * **Judge:** [AMS - PME Student Poster Session](https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_posters), 03/2024.
 * **Teaching Fellow:** [UA GTA Workshop Team](https://graduate.ua.edu/students/gradacts/new-gta-workshop/), 08/2022 - 08/2023.
+* **Founding Member:** iVolunteer Network Ghana, 2015 - 2018.
 
-  
-  
-<!-- 
-* **Judge:** [SIAM M3 Challenge](https://m3challenge.siam.org), 2025.
-  * Served as a triage judge for the MathWorks Math Modeling (M3) Challenge, organized by SIAM. Graded and provided feedback to challenge teams of over 20 teams of high school students in the United States and sixth form students in England and Wales.
-* **Delegate:** [Graduate Students Association](https://gsa.ua.edu/delegates/), House of Delegates, 08/2024-05/2025.
-  * Served on the Academic Development Committee of the house, where we worked on resolutions to help graduate students in their job search and get additional funding for conferences.
-* **Grader:** [MATHCOUNTS](https://www.mathcounts.org), 2022-2025.
-  * Served as a grader for the MATHCOUNTS competition for pupils in grades six to eight in West Alabama, organized by the MATHCOUNTS Foundation, and hosted by the University of Alabama.
-* **Judge:** [SIMIODE Challenge Using Differential Equations Modelling (SCUDEM) IX](https://qubeshub.org/community/groups/simiode/), 2024.
-  * Served as a judge for SCUDEM IX 2024, organized by SIMIODE. Judged undergraduate students’ research on modeling using differential equations and MATLAB worldwide.
-* **Judge:** [Ohio Science Day](https://www.ohiosci.org/science-days/), 2024.
-  * Served as a judge for the 2024 Ohio Science Day, organized by the Ohio Academy of Arts and Sciences. Judged research carried out by high school and middle school students.
-* **Judge:** [Undergraduate Research and Creative Activity Conference (URCA)](https://research.ua.edu/our/urca/), 2024.
-  * Served as a judge for the 2024 URCA, organized by the University of Alabama, judging research by undergraduate students.
-  
-  
- -->
-  
-Mentorship
-======
-* The University of Alabama, Department of Mathematics (2022 - 2023)
-	* Guided and mentored two master’s students through the completion of their theses
-  * Provided guidance on converting a FORTRAN package to a MATLAB package  
+
