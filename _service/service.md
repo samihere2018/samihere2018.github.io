@@ -20,7 +20,7 @@ Mentorship
 
 Service
 ======
-* **Reviwer:** Applied and Computational Mathematics, [Science Publishing Group](https://www.sciencepublishinggroup.com/journal/147/reviewers), 03/2025 - present.
+* **Reveiwer:** Applied and Computational Mathematics, [Science Publishing Group](https://www.sciencepublishinggroup.com/journal/147/reviewers), 03/2025 - present.
 * **Judge:** [SIAM M3 Challenge](https://m3challenge.siam.org), 03/2025.
 * **Judge:** [Dallas Regional Science and Engineering Fair Academy](https://dallassciencefair.org/), 02/2025.
 * **Judge:** [Ohio Science Day](https://www.ohiosci.org/science-days/), 04/2024 - 03/2025.
