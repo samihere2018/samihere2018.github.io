@@ -12,7 +12,6 @@ Research
 * **Scientific Computing:** SUNDIALS/ARKODE development, biomolecular simulations, electrostatic analysis
 * **Mathematical Biology:** Implicit solvation models, mathematical methods for molecular biology, biomolecular solvation energy
 
-
 Software
 ======
 [Nonlinear electrostatic free energy of a Kirkwood sphere](/files/NPB_Kirkwood_energy.m)
