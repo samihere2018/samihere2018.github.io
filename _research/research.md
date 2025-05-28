@@ -22,6 +22,7 @@ Software
 
 Funding
 ======
+I am grateful for the funding from the following agencies:
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; align-items:center; padding:10px;">
   <a href="https://www.energy.gov/">
