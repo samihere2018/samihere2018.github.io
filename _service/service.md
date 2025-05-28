@@ -9,15 +9,13 @@ Conferences/Mini-Symposium Organised
 ======
 * [2025 SIAM Conference on Computational Science and Engineering (CSE25)](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=81137), Fort Worth Convention Center, Fort Worth, TX - March 2025.
 * [Graduate Students’ Mathematical Fair 2023](https://sites.google.com/view/ghananumericals/workshops-conferences/graduate-students-fair/graduate-students-fair-2023), [Ghana Numerical Analysis](https://sites.google.com/view/ghananumericals/home) - September 2023.
+  
 
-  
-  
 Mentorship
 ======
 * The University of Alabama, Department of Mathematics (2022 - 2023)
 	* Guided and mentored two master’s students through the completion of their theses
   * Provided guidance on converting a FORTRAN package to a MATLAB package  
-
 
 
 Service
