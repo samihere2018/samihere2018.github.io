@@ -14,7 +14,10 @@ Research
 
 Software
 ======
-[Nonlinear electrostatic free energy of a Kirkwood sphere](/files/NPB_Kirkwood_energy.m)
+
+* [SUNDIALS](https://computing.llnl.gov/projects/sundials)
+
+* [Nonlinear electrostatic free energy of a Kirkwood sphere](/files/NPB_Kirkwood_energy.m)
 
 This MATLAB code solves the nonlinear Poisson-Boltzmann Equation for a Kirkwood sphere with a charge at its center, and calculates the electrostatic free energy.<br> 
 Please cite the following when using this code in a publication:<br> 
