@@ -19,36 +19,66 @@ Software
     This MATLAB code solves the nonlinear Poisson-Boltzmann Equation for a Kirkwood sphere with a charge at its center, and calculates the electrostatic free energy.<br> 
     Please cite the following when using this code in a publication:<br> 
     **S. Amihere**, W. Geng, and S. Zhao, [Benchmarking electrostatic free energy of the nonlinear Poisson–Boltzmann model for the Kirkwood sphere](https://par.nsf.gov/servlets/purl/10346952). Journal of Communications in Information and Systems,22(3), 305-315, (2022).
+<h1>Funding</h1>
 
-Funding
-======
-
-<table class="funding-logo-table">
+<table style="width:100%; padding:10px; text-align:center; border-collapse:collapse; border:none;">
   <tr>
-    <td>
-      <a href="https://www.energy.gov/"><img src="/images/doe_logo.png" alt="U.S. Department of Energy"/></a>
+    <td style="border:none;">
+      <a href="https://www.energy.gov/">
+        <img src="/images/doe_logo.png" alt="U.S. Department of Energy Logo" style="height:75px;">
+      </a>
     </td>
-    <td>
-      <a href="https://www.nsf.gov/"><img src="/images/nsf_logo.png" alt="U.S. National Science Foundation"/></a>
+    <td style="border:none;">
+      <a href="https://www.nsf.gov/">
+        <img src="/images/nsf_logo.png" alt="National Science Foundation Logo" style="height:75px;">
+      </a>
     </td>
   </tr>
-
   <tr>
-    <td>
-      <a href="https://www.llnl.gov/"><img src="/images/llnl_logo.png" alt="Lawrence Livermore National Laboratory"/></a>
+    <td style="border:none;">
+      <a href="https://www.llnl.gov/">
+        <img src="/images/llnl_logo.png" alt="Lawrence Livermore National Laboratory Logo" style="height:50px;">
+      </a>
     </td>
-    <td>
-      <a href="https://www.pppl.gov/"><img src="/images/pppl_logo.png" alt="Princeton Plasma Physics Laboratory"/></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2"> <a href="https://www.ga.com/"><img src="/images/General_Atomics-Logo.png" alt="General Atomics"/></a>
+    <td style="border:none;">
+      <a href="https://www.pppl.gov/">
+        <img src="/images/pppl_logo.png" alt="Princeton Plasma Physics Laboratory Logo" style="height:50px;">
+      </a>
     </td>
   </tr>
-
   <tr>
-    <td colspan="2"> <a href="https://scidac5-fastmath.lbl.gov/"><img src="/images/FASTMath_logo.png" alt="FASTMath Institute"/></a>
+    <td colspan="2" style="border:none;">
+      <a href="https://www.ga.com/">
+        <img src="/images/General_Atomics-Logo.png" alt="General Atomics Logo" style="height:50px;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border:none;">
+      <a href="https://scidac5-fastmath.lbl.gov/">
+        <img src="/images/FASTMath_logo.png" alt="FASTMath Institute Logo" style="height:50px;">
+      </a>
     </td>
   </tr>
 </table>
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; align-items:center; padding:10px;">
+  <a href="https://www.energy.gov/">
+    <img src="/images/doe_logo.png" alt="U.S. Department of Energy Logo" style="height:75px;">
+  </a>
+  <a href="https://www.nsf.gov/">
+    <img src="/images/nsf_logo.png" alt="NSF Logo" style="height:75px;">
+  </a>
+  <a href="https://www.llnl.gov/">
+    <img src="/images/llnl_logo.png" alt="LLNL Logo" style="height:50px;">
+  </a>
+  <a href="https://www.pppl.gov/">
+    <img src="/images/pppl_logo.png" alt="PPPL Logo" style="height:50px;">
+  </a>
+  <a href="https://www.ga.com/">
+    <img src="/images/General_Atomics-Logo.png" alt="General Atomics Logo" style="height:50px;">
+  </a>
+  <a href="https://scidac5-fastmath.lbl.gov/">
+    <img src="/images/FASTMath_logo.png" alt="FASTMath Institute Logo" style="height:50px;">
+  </a>
+</div>
