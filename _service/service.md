@@ -25,7 +25,7 @@ Service
 * **Judge:** [Dallas Regional Science and Engineering Fair Academy](https://dallassciencefair.org/), 02/2025.
 * **Judge:** [Ohio Science Day](https://www.ohiosci.org/science-days/), 04/2024 - 03/2025.
 * **Secretary:** Association of Women in Mathematics, [UA Student Chapter](https://math.ua.edu/awm/), 08/2022 - 08/2024.
-* **Grader:** [MATHCOUNTS](https://www.mathcounts.org), 02/2022 - 02/2024.
+* **Grader:** [MATHCOUNTS](https://mathcounts.ua.edu), 02/2022 - 02/2024.
 * **Judge:** [Undergraduate Research and Creative Activity Conference (URCA)](https://research.ua.edu/our/urca/), 03/2024.
 * **Judge:** [AMS - PME Student Poster Session](https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_posters), 01/2024.
 * **Teaching Fellow:** [UA GTA Workshop Team](https://graduate.ua.edu/students/gradacts/new-gta-workshop/), 08/2022 - 08/2023.
