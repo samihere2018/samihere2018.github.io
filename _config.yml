@@ -8,8 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-# site_theme               : "default"
-remote_theme             : "mmistakes/minimal-mistakes"
+site_theme               : "default"
 title                    : "Sylvia Amihere"
 title_separator          : "-"
 name                     : &name "Sylvia Amihere"
@@ -255,8 +254,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar:
-        nav: "main"
   # _teaching
   - scope:
       path: ""
