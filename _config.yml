@@ -22,7 +22,7 @@ repository               : "samihere2018/samihere2018.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "SylviaAmihere.jpg"
+  avatar           : "sylviaAmihere.jpg"
   name             : "Sylvia Amihere"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
