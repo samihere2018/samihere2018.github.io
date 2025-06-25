@@ -17,6 +17,6 @@ author_profile: true
 * Tutored undergraduate courses including Algebra (Introductory, Intermediate, and Precalculus), Finite Mathematics, Trigonometry, Business Calculus, and Calculus I & II. 
 
 
-[University of Ghana](https://www.ug.edu.gh/mathematics/home)
+[University of Ghana](https://www.ug.edu.gh/mathematics/home) (Teaching Assistant)
 ======
 * Tutored undergraduate courses including Computational Mathematics and Calculus III.
