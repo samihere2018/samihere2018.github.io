@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-[The Univerity of Alabama](https://math.ua.edu/)
+[The University of Alabama](https://math.ua.edu/)(Instructor)
 ======
 * Linear Algebra (Math 237), Fall 2023
 * Calculus I (Math 125), Fall 2022
@@ -17,6 +17,6 @@ author_profile: true
 * Tutored undergraduate courses including Algebra (Introductory, Intermediate, and Precalculus), Finite Mathematics, Trigonometry, Business Calculus, and Calculus I & II. 
 
 
-[Univerity of Ghana](https://www.ug.edu.gh/mathematics/home)
+[University of Ghana](https://www.ug.edu.gh/mathematics/home)
 ======
 * Tutored undergraduate courses including Computational Mathematics and Calculus III.
