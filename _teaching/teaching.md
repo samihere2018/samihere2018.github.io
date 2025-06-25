@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-[The University of Alabama](https://math.ua.edu/)(Instructor)
+[The University of Alabama](https://math.ua.edu/) (Instructor)
 ======
 * Linear Algebra (Math 237), Fall 2023
 * Calculus I (Math 125), Fall 2022
